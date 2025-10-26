@@ -1,0 +1,10 @@
+__pycache__
+_*
+*.sh
+predictions
+.ipynb_checkpoints
+archive
+dataset
+sen1floods11
+*.err
+*.out
